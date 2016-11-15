@@ -2,17 +2,16 @@ body {
     background-color: powderblue
 }
 
+#y.pets {
+    color:orangered;
+    text-align: center;
+    font-family: t-size: 75px;
+}
+
 h1 {
     color:orangered;
     text-align: center;
     font-family: t-size: 50px;
-}
-
-#TheRules {
-            text-align: center;
-    color: orangered;
-    font-family: monospace;
-    font-size: 20px;     
 }
 
 #Welcome {
@@ -21,10 +20,6 @@ h1 {
     font-family: monospace;
     font-size: 20px;
 }
-
-p.border{border-style: inset;}
-
-h3.border2{border-style: groove;}
 
 ol {
      text-align: center;
