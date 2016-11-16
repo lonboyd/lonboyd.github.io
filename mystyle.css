@@ -2,18 +2,11 @@ body {
     background-color: powderblue
 }
 
-#y.pets {
-    color:orangered;
+#Welcome {
     text-align: center;
-    font-family:
-    font-size: 75px;
-}
-
-h1 {
-    color:orangered;
-    text-align: center;
-    font-family: 
-    font-size: 50px;
+    color: orangered;
+    font-family: monospace;
+    font-size: 20px;
 }
 
 #Welcome {
@@ -21,6 +14,13 @@ h1 {
     color: cornflowerblue;
     font-family: monospace;
     font-size: 20px;
+}
+
+#y.pets {
+    text-align: center;
+    color: orangered;
+    font-family: monospace;
+    font-size: 75px;
 }
 
 ol {
