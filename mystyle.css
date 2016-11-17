@@ -24,7 +24,7 @@ h1 {
 }
 
 ol {
-     text-align: center;
+    text-align: center;
     color: orangered;
     font-family: fantasy;
     font-size: 20px;
@@ -41,5 +41,12 @@ ol {
     text-align: center;
     color: orangered;
     font-family: monospace;
-    font-size: 30px;
+    font-size: 25px;
+}
+
+#id {
+ text-align: center;
+    color: orangered;
+    font-family: monospace;
+    font-size: 25px;   
 }
